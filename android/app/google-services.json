@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "566760018991",
+    "project_id": "cleanify-b5b44",
+    "storage_bucket": "cleanify-b5b44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566760018991:android:41d825c55e2f0996fea2da",
+        "android_client_info": {
+          "package_name": "com.example.city_guide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566760018991-pnsvurr1ptk584aava6g5cn4qtklstv4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDulZaBm96f_k1_oTsAyCwvSX1DdZYMqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566760018991-pnsvurr1ptk584aava6g5cn4qtklstv4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566760018991:android:47aa7b14dc79aa34fea2da",
+        "android_client_info": {
+          "package_name": "com.example.hargeisa_city_guide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566760018991-pnsvurr1ptk584aava6g5cn4qtklstv4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDulZaBm96f_k1_oTsAyCwvSX1DdZYMqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566760018991-pnsvurr1ptk584aava6g5cn4qtklstv4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
